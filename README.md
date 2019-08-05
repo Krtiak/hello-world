@@ -1,2 +1,3 @@
 # hello-world
-this is just a test...
+
+Hi! My name is John, and i like this :) 
